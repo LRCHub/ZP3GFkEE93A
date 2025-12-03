@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ブルーアンビエンス",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T13:37:27.974480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス",
+      "artist": "Mrs. GREEN APPLE feat. asmi",
+      "has_synced": true,
+      "path": "select/01_ブルーアンビエンス_Mrs._GREEN_APPLE_feat._asmi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス",
+      "artist": "Mrs. GREEN APPLE/asmi",
+      "has_synced": true,
+      "path": "select/02_ブルーアンビエンス_Mrs._GREEN_APPLE_asmi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス - Blue Ambience (feat. asmi)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ブルーアンビエンス_-_Blue_Ambience_(feat._asmi)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス (Blue Ambience)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_ブルーアンビエンス_(Blue_Ambience)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス",
+      "artist": "Mrs. GREEN APPLE; asmi",
+      "has_synced": true,
+      "path": "select/05_ブルーアンビエンス_Mrs._GREEN_APPLE;_asmi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_ブルーアンビエンス_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス",
+      "artist": "Mrs. GREEN APPLE, asmi",
+      "has_synced": true,
+      "path": "select/07_ブルーアンビエンス_Mrs._GREEN_APPLE,_asmi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ブルーアンビエンス (feat. asmi)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_ブルーアンビエンス_(feat._asmi)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーアンビエンス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーアンビエンス_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
